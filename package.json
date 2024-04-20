@@ -1,0 +1,14 @@
+{
+  "name": "note-sharing-website",
+  "version": "1.0.0",
+  "description": "A simple note sharing website with file upload support using Node.js, Express, MongoDB, HTML, CSS, and JavaScript",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.0",
+    "multer": "^1.4.4"
+  }
+}
